@@ -1,0 +1,425 @@
+#Insight Transform File V1.0
+#Transform 0
+Transform: AffineTransform_float_3_3
+Parameters: 0.999999 -2.35556e-06 -0.00072893 2.52394e-06 1 0.000115498 0.000728929 -0.000115501 0.999999 0.00762419 0.0247185 -0.0565368
+FixedParameters: 0 0 0
+
+#Transform 1
+Transform: AffineTransform_float_3_3
+Parameters: 1 -1.01233e-05 -0.000496188 1.0472e-05 1 0.000351443 0.000496181 -0.000351453 1 0.0178084 0.00967958 -0.0624797
+FixedParameters: 0 0 0
+
+#Transform 2
+Transform: AffineTransform_float_3_3
+Parameters: 1 -2.73097e-06 -0.000255061 2.78225e-06 1 0.000100524 0.000255061 -0.000100525 1 0.00833846 0.0118446 -0.0638539
+FixedParameters: 0 0 0
+
+#Transform 3
+Transform: AffineTransform_float_3_3
+Parameters: 1 2.9992e-05 -0.000259022 -2.96543e-05 1 0.000651815 0.000259061 -0.000651799 1 0.00935425 0.0151398 -0.0590285
+FixedParameters: 0 0 0
+
+#Transform 4
+Transform: AffineTransform_float_3_3
+Parameters: 1 -5.14524e-06 -0.000439695 5.31085e-06 1 0.000188326 0.000439693 -0.00018833 1 0.0163416 0.0325402 -0.0699076
+FixedParameters: 0 0 0
+
+#Transform 5
+Transform: AffineTransform_float_3_3
+Parameters: 1 4.76358e-07 -0.000344312 -4.74196e-07 1 3.14005e-06 0.000344312 -3.13972e-06 1 0.0126019 0.0221194 -0.0476579
+FixedParameters: 0 0 0
+
+#Transform 6
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000141266 -0.00028994 0.00014126 1 -1.02785e-05 0.000289943 1.01966e-05 1 0.0131191 0.0409629 -0.0479394
+FixedParameters: 0 0 0
+
+#Transform 7
+Transform: AffineTransform_float_3_3
+Parameters: 0.999999 -1.32923e-05 -0.00071036 1.39569e-05 1 0.000467823 0.000710347 -0.000467842 0.999999 0.0257232 0.00176709 -0.0604778
+FixedParameters: 0 0 0
+
+#Transform 8
+Transform: AffineTransform_float_3_3
+Parameters: 1 -5.98705e-06 -0.000447262 6.18004e-06 1 0.000215748 0.00044726 -0.000215754 1 0.0209235 0.0204747 -0.0449888
+FixedParameters: 0 0 0
+
+#Transform 9
+Transform: AffineTransform_float_3_3
+Parameters: 1 -8.35699e-06 -0.00046024 8.62623e-06 1 0.000292499 0.000460235 -0.000292506 1 0.0175756 0.0222381 -0.0440041
+FixedParameters: 0 0 0
+
+#Transform 10
+Transform: AffineTransform_float_3_3
+Parameters: 0.999999 0.000168823 -0.000965783 -0.000168327 1 0.000256814 0.000965869 -0.000256488 0.999999 0.0381157 0.0363904 0.0528183
+FixedParameters: 0 0 0
+
+#Transform 11
+Transform: AffineTransform_float_3_3
+Parameters: 0.999999 -0.000106568 -0.000768902 0.000106807 1 0.000155292 0.000768869 -0.000155456 0.999999 0.0309699 -0.00579659 0.0348817
+FixedParameters: 0 0 0
+
+#Transform 12
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000110166 -0.000518255 0.000110432 1 0.000256203 0.000518198 -0.000256317 1 0.0204397 0.0136929 -0.0439916
+FixedParameters: 0 0 0
+
+#Transform 13
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000110017 -0.00115637 0.000110582 1 0.000289776 0.00115631 -0.000290031 1 0.0444103 -0.00617543 -0.0110502
+FixedParameters: 0 0 0
+
+#Transform 14
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000110175 -0.000486299 0.000110423 1 0.000254521 0.000486243 -0.000254629 1 0.0212447 0.00476177 0.0369909
+FixedParameters: 0 0 0
+
+#Transform 15
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000107991 -0.000335241 0.000108108 1 0.000175512 0.000335203 -0.000175585 1 0.0157098 0.00622205 0.0440004
+FixedParameters: 0 0 0
+
+#Transform 16
+Transform: AffineTransform_float_3_3
+Parameters: 1 8.33207e-05 -0.000341874 -8.31833e-05 1 0.000201037 0.000341908 -0.00020098 1 0.0141973 0.0108874 0.0522584
+FixedParameters: 0 0 0
+
+#Transform 17
+Transform: AffineTransform_float_3_3
+Parameters: 1 -9.94515e-05 -0.000212715 9.9411e-05 1 -0.000103172 0.000211739 0.000103182 1 0.0107756 0.0042335 0.0534449
+FixedParameters: 0 0 0
+
+#Transform 18
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000374674 -0.000419815 -0.000373893 1 -0.000249384 0.000420623 0.000249614 1 0.0098344 0.00361062 -0.040063
+FixedParameters: 0 0 0
+
+#Transform 19
+Transform: AffineTransform_float_3_3
+Parameters: 1 8.24527e-05 -0.000577469 -8.23578e-05 1 8.22025e-05 0.000577482 -8.21073e-05 1 0.0220252 0.00340516 0.0350271
+FixedParameters: 0 0 0
+
+#Transform 20
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.00010946 -0.000217985 0.000109554 1 0.000215383 0.000217938 -0.000215431 1 0.00892034 0.00832638 -0.040013
+FixedParameters: 0 0 0
+
+#Transform 21
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000119813 -0.000440173 0.000120304 1 0.000560361 0.000441035 -0.000560519 0.999999 0.0236717 -0.00486983 -0.00292121
+FixedParameters: 0 0 0
+
+#Transform 22
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000277725 -0.000497309 0.000277771 1 4.53167e-05 0.000497284 -4.55929e-05 1 0.0280444 0.0147327 0.0368355
+FixedParameters: 0 0 0
+
+#Transform 23
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000119093 3.45423e-05 0.000119059 1 0.000504363 -3.46625e-05 -0.000504354 1 0.0033683 0.021131 0.0456618
+FixedParameters: 0 0 0
+
+#Transform 24
+Transform: AffineTransform_float_3_3
+Parameters: 1 -4.54863e-05 -0.000326841 4.59039e-05 1 0.000638941 0.000326783 -0.000638971 0.999999 0.0256692 -0.00214747 0.057829
+FixedParameters: 0 0 0
+
+#Transform 25
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000114534 -2.98854e-05 0.000114556 1 0.000364626 2.98019e-05 -0.000364633 1 0.00545746 0.0109774 0.061711
+FixedParameters: 0 0 0
+
+#Transform 26
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000113092 1.56333e-05 0.000113083 1 0.000316191 -1.57048e-05 -0.000316188 1 0.00282506 0.00406152 0.0459211
+FixedParameters: 0 0 0
+
+#Transform 27
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000116475 -7.95575e-05 0.000116544 1 0.000429294 7.94575e-05 -0.000429312 1 0.007201 -0.021358 -0.0240065
+FixedParameters: 0 0 0
+
+#Transform 28
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000116569 -0.000153245 0.000116703 1 0.000437174 0.000153143 -0.000437209 1 0.0125239 -0.0319276 0.0575804
+FixedParameters: 0 0 0
+
+#Transform 29
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000121777 1.30395e-05 0.000121761 1 0.000590568 -1.31834e-05 -0.000590565 1 0.00222144 -0.0166061 0.0396573
+FixedParameters: 0 0 0
+
+#Transform 30
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000112153 5.79975e-05 0.00011212 1 0.000283936 -5.80612e-05 -0.000283923 1 0.000598047 -0.0153232 0.0581445
+FixedParameters: 0 0 0
+
+#Transform 31
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000119247 0.000350106 0.000118905 1 0.000487763 -0.000350222 -0.000487679 1 -0.0107833 -0.026363 0.0498399
+FixedParameters: 0 0 0
+
+#Transform 32
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000119384 -7.87229e-05 0.000119466 1 0.00052133 7.85983e-05 -0.000521349 1 0.0162757 -0.0290782 0.0588559
+FixedParameters: 0 0 0
+
+#Transform 33
+Transform: AffineTransform_float_3_3
+Parameters: 1 4.94509e-05 1.72667e-05 -4.94504e-05 1 -1.43698e-05 -1.72681e-05 1.43681e-05 1 0.000515129 -0.00646605 0.0685215
+FixedParameters: 0 0 0
+
+#Transform 34
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000134493 -0.000141415 0.000134775 0.999999 0.00100505 0.000142141 -0.00100514 0.999999 0.00739485 -0.0441659 0.0389546
+FixedParameters: 0 0 0
+
+#Transform 35
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000157084 -0.000421947 -0.00015693 1 0.000182591 0.000422004 -0.000182459 1 0.0217443 0.00198367 0.0802551
+FixedParameters: 0 0 0
+
+#Transform 36
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000101719 -0.000208934 0.000101706 1 -3.13081e-05 0.00020894 3.12656e-05 1 0.0100677 -0.0130564 0.0584797
+FixedParameters: 0 0 0
+
+#Transform 37
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000109221 5.76693e-05 -0.000110182 1 -0.000292103 -5.77317e-05 0.000292122 1 0.00250202 0.00441123 0.0636691
+FixedParameters: 0 0 0
+
+#Transform 38
+Transform: AffineTransform_float_3_3
+Parameters: 1 -2.80004e-05 -0.000102201 2.80467e-05 1 0.000226916 0.000102188 -0.000226921 1 0.00540893 -0.00371334 0.0356759
+FixedParameters: 0 0 0
+
+#Transform 39
+Transform: AffineTransform_float_3_3
+Parameters: 1 2.44229e-05 -0.000380136 -2.39553e-05 1 0.000614941 0.000380166 -0.000614923 0.999999 0.0163503 -0.0181412 0.0774538
+FixedParameters: 0 0 0
+
+#Transform 40
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000183244 4.17052e-05 -0.00018328 1 0.00046649 -4.25309e-05 -0.000466453 1 -0.00119314 -0.0118841 0.0787301
+FixedParameters: 0 0 0
+
+#Transform 41
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000304407 -1.65213e-05 0.000304405 1 -8.59417e-05 1.65737e-05 8.59316e-05 1 0.00546221 -0.0212075 0.0836031
+FixedParameters: 0 0 0
+
+#Transform 42
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000115418 -0.000115243 0.00011551 1 0.000398142 0.000115151 -0.000398169 1 0.00665193 -0.0343841 0.0698797
+FixedParameters: 0 0 0
+
+#Transform 43
+Transform: AffineTransform_float_3_3
+Parameters: 1 -4.45108e-06 -0.000457887 4.98594e-06 1 0.000584046 0.000457882 -0.000584051 0.999999 0.0201756 -0.0175223 0.097738
+FixedParameters: 0 0 0
+
+#Transform 44
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000105315 -0.000127052 0.000105335 1 7.84831e-05 0.000127035 -7.85098e-05 1 0.00798859 -0.00956001 0.0771426
+FixedParameters: 0 0 0
+
+#Transform 45
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.00031471 0.000314944 0.000314571 1 0.000219968 -0.000315082 -0.00021977 1 -0.00711192 -0.0312853 0.0721674
+FixedParameters: 0 0 0
+
+#Transform 46
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000111853 -0.000343395 0.000112099 1 0.000363168 0.00034431 -0.000363297 1 0.0251482 -0.0246964 0.0985225
+FixedParameters: 0 0 0
+
+#Transform 47
+Transform: AffineTransform_float_3_3
+Parameters: 1 3.79014e-06 5.55807e-05 -3.8081e-06 1 0.0001615 -5.55795e-05 -0.000161501 1 0.000475335 -0.0108761 0.0924594
+FixedParameters: 0 0 0
+
+#Transform 48
+Transform: AffineTransform_float_3_3
+Parameters: 1 2.88061e-05 -0.000190234 -2.8582e-05 1 0.000589038 0.000190268 -0.000589027 1 0.00898765 -0.0227228 0.0789843
+FixedParameters: 0 0 0
+
+#Transform 49
+Transform: AffineTransform_float_3_3
+Parameters: 1 -6.12232e-06 -0.000175439 6.32763e-06 1 0.000585138 0.000175432 -0.000585141 1 0.00826661 -0.0389095 0.0899279
+FixedParameters: 0 0 0
+
+#Transform 50
+Transform: AffineTransform_float_3_3
+Parameters: 1 7.8642e-05 -4.19348e-05 -7.86275e-05 1 0.000173029 4.1962e-05 -0.000173022 1 0.000814327 -0.0405146 0.0678945
+FixedParameters: 0 0 0
+
+#Transform 51
+Transform: AffineTransform_float_3_3
+Parameters: 1 -4.59216e-05 -0.000367056 4.63326e-05 1 0.000559893 0.000367004 -0.000559927 1 0.0147048 -0.0664955 0.0974174
+FixedParameters: 0 0 0
+
+#Transform 52
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000332163 -0.00030683 0.000331668 0.999999 0.000814066 0.000306291 -0.000814238 0.999999 0.0173542 -0.0468607 0.099339
+FixedParameters: 0 0 0
+
+#Transform 53
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.00031795 -4.90578e-05 0.000317984 1 0.000344135 4.88389e-05 -0.000344166 1 0.00636709 -0.0464536 0.0857818
+FixedParameters: 0 0 0
+
+#Transform 54
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000310241 5.50199e-05 0.000310231 1 9.44687e-05 -5.50785e-05 -9.44345e-05 1 0.00290863 -0.0388928 0.102692
+FixedParameters: 0 0 0
+
+#Transform 55
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000210456 -0.000408471 0.000211189 0.999999 0.000897414 0.000408155 -0.000897589 1 0.0187389 -0.0565624 0.082775
+FixedParameters: 0 0 0
+
+#Transform 56
+Transform: AffineTransform_float_3_3
+Parameters: 1 7.79033e-05 -0.000255809 -7.7568e-05 1 0.000655184 0.000255911 -0.000655144 1 0.018027 -0.0549286 0.0960396
+FixedParameters: 0 0 0
+
+#Transform 57
+Transform: AffineTransform_float_3_3
+Parameters: 1 4.09198e-05 0.000119909 -4.10096e-05 1 0.000374691 -0.000119879 -0.000374701 1 -0.00322972 -0.0311951 0.0881568
+FixedParameters: 0 0 0
+
+#Transform 58
+Transform: AffineTransform_float_3_3
+Parameters: 1 -8.02431e-05 -4.63126e-05 8.02937e-05 1 0.00054692 4.62248e-05 -0.000546928 1 0.00293221 -0.0504686 0.0624812
+FixedParameters: 0 0 0
+
+#Transform 59
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000101754 -0.000203689 -0.000101526 1 0.000561022 0.000203803 -0.000560981 1 0.00729615 -0.0538629 0.0869217
+FixedParameters: 0 0 0
+
+#Transform 60
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000106137 -2.40613e-05 -0.000106102 1 0.000662886 2.32054e-05 -0.000662829 1 0.00529656 -0.049774 0.0921615
+FixedParameters: 0 0 0
+
+#Transform 61
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000316743 3.6782e-05 0.00031672 1 0.000300603 -3.69724e-05 -0.00030058 1 0.00327873 -0.0433169 0.0848638
+FixedParameters: 0 0 0
+
+#Transform 62
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.00012073 -0.000113729 0.000120757 1 0.000122376 0.000113699 -0.000122403 1 0.00532723 -0.0598625 0.0796992
+FixedParameters: 0 0 0
+
+#Transform 63
+Transform: AffineTransform_float_3_3
+Parameters: 1 -3.71899e-05 8.63805e-05 3.71135e-05 1 0.000442114 -8.64133e-05 -0.000442108 1 0.00988795 -0.0679027 0.0909036
+FixedParameters: 0 0 0
+
+#Transform 64
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000302522 -0.000121521 0.000302488 1 -0.00014049 0.000121606 0.000140416 1 0.00820554 -0.0560236 0.10107
+FixedParameters: 0 0 0
+
+#Transform 65
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000140284 -0.000436503 -0.000141012 1 0.000305082 0.000436591 -0.000304928 1 0.0112126 -0.0673485 0.107588
+FixedParameters: 0 0 0
+
+#Transform 66
+Transform: AffineTransform_float_3_3
+Parameters: 1 5.34164e-05 -0.00031974 -5.32501e-05 1 0.000260024 0.000319768 -0.00025999 1 0.00563269 -0.065206 0.129571
+FixedParameters: 0 0 0
+
+#Transform 67
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000163151 -0.00020762 -0.000162949 1 0.000486048 0.000207779 -0.00048598 1 -0.00113873 -0.0789013 0.110755
+FixedParameters: 0 0 0
+
+#Transform 68
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000162177 -0.000327708 -0.000161832 1 0.000525428 0.000327879 -0.000525322 1 -0.000224061 -0.0744877 0.103956
+FixedParameters: 0 0 0
+
+#Transform 69
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000156714 -0.000318528 -0.000156269 0.999999 0.000699096 0.000318746 -0.000698996 0.999999 0.00560826 -0.0899957 0.127581
+FixedParameters: 0 0 0
+
+#Transform 70
+Transform: AffineTransform_float_3_3
+Parameters: 1 3.34708e-05 -0.000243108 -3.40473e-05 0.999999 0.000858509 0.000243168 -0.000858461 0.999999 0.000702994 -0.0865302 0.12947
+FixedParameters: 0 0 0
+
+#Transform 71
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000255758 -7.99425e-05 -0.00025576 1 -1.56988e-05 7.99345e-05 1.57397e-05 1 -0.00379688 -0.119811 0.0792875
+FixedParameters: 0 0 0
+
+#Transform 72
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000305979 -4.78253e-05 -0.000305757 0.999999 0.00121253 4.86303e-05 -0.00121251 1 -0.00281719 -0.143493 0.142992
+FixedParameters: 0 0 0
+
+#Transform 73
+Transform: AffineTransform_float_3_3
+Parameters: 1 0.000147834 -2.54638e-05 -0.000147785 0.999999 0.000957842 2.57469e-05 -0.000957835 0.999999 0.000609344 -0.106488 0.172018
+FixedParameters: 0 0 0
+
+#Transform 74
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000367041 0.00011547 0.000366874 0.999999 0.000713672 -0.000114997 -0.00071364 0.999999 0.00126519 -0.0956728 0.159815
+FixedParameters: 0 0 0
+
+#Transform 75
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000271607 -0.0001115 0.000271746 1 0.000623397 0.000111162 -0.000623458 1 0.0146887 -0.0855597 0.119797
+FixedParameters: 0 0 0
+
+#Transform 76
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000232808 9.87655e-06 0.000232792 0.999999 0.000779568 -1.02395e-05 -0.000779564 0.999999 0.0215345 -0.0903107 0.117441
+FixedParameters: 0 0 0
+
+#Transform 77
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000128754 9.65969e-06 0.000128742 1 0.000621583 -9.81974e-06 -0.00062158 1 0.00810317 -0.0708576 0.163989
+FixedParameters: 0 0 0
+
+#Transform 78
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.00029367 7.2862e-06 0.000293661 1 0.000616468 -7.64827e-06 -0.000616464 1 0.00534323 -0.0841922 0.162265
+FixedParameters: 0 0 0
+
+#Transform 79
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000182751 4.7484e-05 0.000182692 1 0.000617881 -4.77098e-05 -0.000617864 1 0.00893883 -0.0807057 0.169992
+FixedParameters: 0 0 0
+
+#Transform 80
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000270659 0.000105568 0.000270597 1 0.00029445 -0.000105727 -0.000294393 1 -0.00146259 -0.0716939 0.181405
+FixedParameters: 0 0 0
+
+#Transform 81
+Transform: AffineTransform_float_3_3
+Parameters: 1 9.927e-05 0.000417936 -9.84085e-05 1 0.000158381 -0.000417907 -0.000158496 1 -0.0150647 -0.0772847 0.18265
+FixedParameters: 0 0 0
+
+#Transform 82
+Transform: AffineTransform_float_3_3
+Parameters: 1 -2.60373e-05 0.00038737 2.65626e-05 1 0.000604918 -0.000387403 -0.000604929 0.999999 -0.0153292 -0.0816391 0.157666
+FixedParameters: 0 0 0
+
+#Transform 83
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.000433137 0.000263704 0.000432699 0.999999 0.000830068 -0.000264422 -0.000829839 0.999999 0.00360192 -0.080959 0.189281
+FixedParameters: 0 0 0
+
+#Transform 84
+Transform: AffineTransform_float_3_3
+Parameters: 1 -0.00047932 2.64543e-05 0.000479293 1 0.000506377 -2.69397e-05 -0.000506351 1 0.00717748 -0.0800227 0.186481
+FixedParameters: 0 0 0
