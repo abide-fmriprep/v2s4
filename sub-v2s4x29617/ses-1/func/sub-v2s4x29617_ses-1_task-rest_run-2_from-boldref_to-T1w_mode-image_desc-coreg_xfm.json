@@ -1,0 +1,12 @@
+{
+  "FinalCost": 1.000588,
+  "GeneratedBy": [
+    {
+      "Name": "mri_coreg",
+      "Version": "7.3.2"
+    }
+  ],
+  "Sources": [
+    "bids::sub-v2s4x29617/ses-1/func/sub-v2s4x29617_ses-1_task-rest_run-2_desc-coreg_boldref.nii.gz"
+  ]
+}
